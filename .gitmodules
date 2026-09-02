@@ -1,3 +1,6 @@
 [submodule "15-466-f23-base1"]
 	path = 15-466-f23-base1
 	url = https://github.com/Leoglucky/15-466-f23-base1.git
+[submodule "15-466-f26-base2"]
+	path = 15-466-f26-base2
+	url = https://github.com/Leoglucky/15-466-f26-base2.git
